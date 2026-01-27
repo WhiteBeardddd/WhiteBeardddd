@@ -1,7 +1,8 @@
 # 💫 About Me:
 🔭 I’m Studying in University of San Carlos<br>👯 I’m Passionate about Networking and Cybersecurity<br>🌱 I’m Currently Learning about Web Development
-
-
+---
+This is my other github, when i first started using it https://github.com/Charlito1232
+---
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/charlesbenedictboquecosa) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/charles_bokie) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:charlesbenedictboqueocsa@gmail.com) 
 
