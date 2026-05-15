@@ -1,9 +1,14 @@
-![1500x500](https://github.com/user-attachments/assets/c8d96104-4458-42e4-b29a-aa116bf88601)
-#
+<img width="1200" height="675" alt="image" src="https://github.com/user-attachments/assets/b1c87d95-4a2c-4007-be1f-ee0384442321" />
+
+# Call me Charles or Boki
+
 ### About Me:
-- I'm currently interested in Software Engineering and Full-Stack Web Development.
-- 3rd Year Information Technology Student at University of San Carlos. 🏫
-- I'm only good in things that interests me. 🍂
+- 3rd-year IT student at the University of San Carlos
+- Strong foundation in networking, cybersecurity, and systems administration
+- Hands-on experience in enterprise network design, penetration testing, and encrypted systems
+- Passionate about full-stack web development building complete, end-to-end applications
+- Holds Cisco certifications: CCNAv7, CyberOps Associate, and Cybersecurity Essentials
+
 ##
 <details>
 <summary><b>Tech Stack 👨🏻‍💻</b></summary>
@@ -46,6 +51,7 @@
   <div align="center">
     <img style="width:317px" src="https://github-readme-stats.shion.dev/api/top-langs/?username=WhiteBeardddd&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=false&layout=compact"/>
     <img style="width:400px" src="https://github-readme-stats.shion.dev/api?username=WhiteBeardddd&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=false"/><br/>
+    <img src="https://streak-stats.demolab.com/?user=WhiteBeardddd&theme=shadow_green&hide_border=false"/><br/>
   </div>
 </details>
 
@@ -53,6 +59,10 @@
   <summary><b>Connect with Me 🙏🏼</b></summary>
   <p align="center">
       <br/>
+      <a href="https://charlesbenedictboquecosa.vercel.app" target="blank"><img align="center"
+         src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white"
+         alt="portfolio-charlesbenedict" height="30"/>
+      </a>
       <a href="https://linkedin.com/in/Charles Benedict Boquecosa" target="blank"><img align="center"
          src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white"
          alt="linkedin-charlesbenedict" height="30"/>
@@ -75,4 +85,3 @@
       </a>
     </p>
 </details>
-##
